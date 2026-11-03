@@ -1,0 +1,18 @@
+# GHDL
+work-obj*.cf
+*.vcd
+*.ghw
+
+# Generated FPGA outputs
+*.bit
+*.jed
+*.svf
+
+# lattice
+/impl1
+/CPU_tcr.dir
+*.ini
+*.ldf
+*.lpf
+*.sty
+*.xml
